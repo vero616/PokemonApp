@@ -7,7 +7,7 @@
 
 import UIKit
 
-class PEvolutionViewController: UIViewController {
+class PEvolutionsViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
